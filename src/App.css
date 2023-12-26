@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.content {
+  padding-top: 6em;
+  margin: auto;
+  width: 90%;
+}
+
+.main {
+  display: flex;
+}
+
+.form {
+  max-width: 50%;
+  margin-right: 1em;
+}
+
+.instructions {
+  margin-bottom: 3rem;
+}
